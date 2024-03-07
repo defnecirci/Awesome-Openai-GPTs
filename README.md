@@ -56,6 +56,7 @@
 | **Homework Help**         | Provides help with homework across various subjects. | [Chat](https://chat.openai.com/g/g-n9p3Qo2vK-homework-help) |
 | **YouTubeGPT**            | Summarize and chat with YouTube videos | [Chat](https://chat.openai.com/g/g-VgadmpesQ-youtubegpt) |
 | **Altern**                | Your Guide to AI Solutions: Navigating Tools and Products | [Chat](https://chat.openai.com/g/g-PrJkQhYIu-altern)
+| **G.E.N.I.E.**            | Lab experiments guide | [Chat](https://chat.openai.com/g/g-o5jQz0nWS-g-e-n-i-e)
 
 ## 🔧 Technical and Practical Help:
 
